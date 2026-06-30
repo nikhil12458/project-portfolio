@@ -6,6 +6,9 @@
   --font-mono: var(--font-jetbrains-mono);
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
 
 h1,
 span,
